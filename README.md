@@ -1,1 +1,1 @@
-# Linear-Algebra-intro
+# Linear-Algebra repository
